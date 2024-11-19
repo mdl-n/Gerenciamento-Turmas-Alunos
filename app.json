@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Gerenciamento de Turmas e Alunos",
+    "slug": "gerenciamento-de-turmas-e-alunos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconApp.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/iconApp.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ADD8E6"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/iconApp.png"
+      },
+      "package": "com.mdlnxd.GerenciamentoTurmasEAlunos"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9c3f4bed-90c2-469b-9830-ee591bddf26f"
+      }
+    },
+    "owner": "mdlnxd"
+  }
+}
